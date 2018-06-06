@@ -1,0 +1,14 @@
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\bin\Debug\netcoreapp2.1\CorreiosApiWrapper.deps.json
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\bin\Debug\netcoreapp2.1\CorreiosApiWrapper.runtimeconfig.json
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\bin\Debug\netcoreapp2.1\CorreiosApiWrapper.runtimeconfig.dev.json
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\bin\Debug\netcoreapp2.1\CorreiosApiWrapper.dll
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\bin\Debug\netcoreapp2.1\CorreiosApiWrapper.pdb
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\obj\Debug\netcoreapp2.1\CorreiosApiWrapper.csprojAssemblyReference.cache
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\obj\Debug\netcoreapp2.1\CorreiosApiWrapper.csproj.CoreCompileInputs.cache
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\obj\Debug\netcoreapp2.1\CorreiosApiWrapper.RazorAssemblyInfo.cache
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\obj\Debug\netcoreapp2.1\CorreiosApiWrapper.RazorAssemblyInfo.cs
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\obj\Debug\netcoreapp2.1\CorreiosApiWrapper.AssemblyInfoInputs.cache
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\obj\Debug\netcoreapp2.1\CorreiosApiWrapper.AssemblyInfo.cs
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\obj\Debug\netcoreapp2.1\CorreiosApiWrapper.RazorTargetAssemblyInfo.cache
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\obj\Debug\netcoreapp2.1\CorreiosApiWrapper.dll
+D:\USers\Carlos Eduardo Witte\Source\Repos\CorreiosApiWrapper\obj\Debug\netcoreapp2.1\CorreiosApiWrapper.pdb

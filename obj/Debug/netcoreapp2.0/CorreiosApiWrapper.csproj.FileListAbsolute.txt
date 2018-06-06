@@ -1,0 +1,11 @@
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\bin\Debug\netcoreapp2.0\CorreiosApiWrapper.deps.json
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\bin\Debug\netcoreapp2.0\CorreiosApiWrapper.runtimeconfig.json
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\bin\Debug\netcoreapp2.0\CorreiosApiWrapper.runtimeconfig.dev.json
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\bin\Debug\netcoreapp2.0\CorreiosApiWrapper.dll
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\bin\Debug\netcoreapp2.0\CorreiosApiWrapper.pdb
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\obj\Debug\netcoreapp2.0\CorreiosApiWrapper.csprojResolveAssemblyReference.cache
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\obj\Debug\netcoreapp2.0\CorreiosApiWrapper.csproj.CoreCompileInputs.cache
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\obj\Debug\netcoreapp2.0\CorreiosApiWrapper.AssemblyInfoInputs.cache
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\obj\Debug\netcoreapp2.0\CorreiosApiWrapper.AssemblyInfo.cs
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\obj\Debug\netcoreapp2.0\CorreiosApiWrapper.dll
+C:\Users\cewit\Documents\Visual Studio 2017\Projects\BotsMarathonFinalProject\CorreiosApiWrapper\obj\Debug\netcoreapp2.0\CorreiosApiWrapper.pdb
