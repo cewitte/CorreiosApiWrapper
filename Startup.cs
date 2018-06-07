@@ -38,11 +38,11 @@ namespace CorreiosApiWrapper
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseMvc(routes =>
-             routes.MapRoute(
-                 name: "default",
-                 template: "{controller=Values}/{action=Get}"
-             ));
+            app.UseMvc();
+
+            /* app.UseMvc(routes => {
+                routes.MapRoute("default", "{api}/{values}");
+            }); */
         }
     }
 }

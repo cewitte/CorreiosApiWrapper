@@ -40,6 +40,20 @@ namespace CorreiosApiWrapper.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
+            var allCodes = "1 - Formato caixa/pacote\n"
+                        +   "2 - Formato rolo/prisma\n"
+                        +   "3 - Envelope\n"
+                        +   "40010 - SEDEX Varejo\n"
+                        +   "40045 - SEDEX a Cobrar Varejo\n"
+                        +   "41106 - PAC Varejo\n"
+                        +   "04014 - SEDEX à vista\n"
+                        +   "04065 - SEDEX à vista pagamanento na entrega\n"
+                        +   "04510 - PAC à vista\n"
+                        +   "04707 - PAC à vista pagamento na entrega\n"
+                        +   "40169 - SEDEX 12 (à vista e a faturar)\n"
+                        +   "40215 - SEDEX 10 (à vista e a faturar)\n"
+                        +   "40290 - SEDEX Hoje Varejo\n";
+
             switch (id)
             {
                 case 1:
@@ -69,7 +83,7 @@ namespace CorreiosApiWrapper.Controllers
                 case 40290:
                     return "SEDEX Hoje Varejo*";
                 default:
-                    return "NÃO ENTENDI SUA CONSULTA... Para clientes com contrato: Consultar os códigos no seu contrato.";
+                    return allCodes;
             }
         }
 
